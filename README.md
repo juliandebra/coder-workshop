@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+```
+cd coder-workshop
+npm i
+npm i firebase
+npm i react-router-dom
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
